@@ -11,7 +11,7 @@ This application is a full-stack SaaS platform designed for organizations to man
 ---
 
 ## 📺 Video Demo
-**[🎥 Click here to watch the Project Walkthrough & Architecture Demo](https://youtu.be/h9bwxlI3I4I)**
+**[🎥 Click here to watch the Project Walkthrough & Architecture Demo](https://youtu.be/yTtXTQzf5kc)**
 
 ---
 
@@ -96,7 +96,7 @@ The system follows a **Three-Tier Architecture**:
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/sunil-polupalli/saas-platform.git](https://github.com/sunil-polupalli/saas-platform.git)
+git clone [https://github.com/Rakesh-kopisetti/Multi-Tenant-SaaS-Platform-with-Project-Task-Management](https://github.com/Rakesh-kopisetti/Multi-Tenant-SaaS-Platform-with-Project-Task-Management)
 cd saas-platform
 
 ```
